@@ -1,0 +1,19 @@
+{
+  "name": "ghcp-extension",
+  "version": "1.0.0",
+  "description": "Demo on GHCP extension",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renan-alm/ghcp-extension.git"
+  },
+  "author": "Renan Almeida @renan-alm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renan-alm/ghcp-extension/issues"
+  },
+  "homepage": "https://github.com/renan-alm/ghcp-extension#readme"
+}
